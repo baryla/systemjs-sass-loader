@@ -1,0 +1,22 @@
+{
+    "name": "systemjs-sass-loader",
+    "version": "0.1.0",
+    "description": "Enabled the use of .sass/.scss files in SystemJS projects",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/baryla/systemjs-sass-loader.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["systemjs", "sass", "scss", "css", "loader"],
+    "author": {
+        "name": "Adrian Barylski",
+        "url": "https://www.github.com/baryla"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "sass.js": "0.11.0"
+    }
+}
