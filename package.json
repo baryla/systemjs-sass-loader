@@ -1,6 +1,6 @@
 {
     "name": "systemjs-sass-loader",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Enabled the use of .sass/.scss files in SystemJS projects",
     "main": "index.js",
     "repository": {
