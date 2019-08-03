@@ -1,4 +1,4 @@
-import inject from './inject.js';
+import inject from './lib/inject';
 
 const translate = (load) => {
     inject(load).then(res =>
